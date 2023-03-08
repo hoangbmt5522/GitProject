@@ -1,0 +1,9 @@
+thead {
+    background-color: black;
+    color: brown;
+}
+tbody td:hover {
+    background-color: blue;
+    color: black;
+    
+}
